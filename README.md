@@ -75,6 +75,7 @@ This tool is designed to support professional decision-making, not replace it. E
 
 ## Solution Tour
 
+
 ### 1. AI Agent Experience (Teams/Copilot Studio)
 ![Agent Instructions](./Screenshots/Agent%20Description.png)
 *The agent is governed by strict rules to ensure caseworker oversight.*
@@ -87,6 +88,13 @@ This tool is designed to support professional decision-making, not replace it. E
 ![Teams Approval](./Screenshots/Teams%20Approval.png)
 *RED cases trigger immediate Adaptive Card approvals for managers.*
 
+### 1. AI Agent Demo (Copilot Studio)
+<details>
+  <summary>▶ Click to expand: Demo of Adult Social Care Assistant</summary>
+  
+  (https://youtu.be/YFZWkIqdAbQ)
+</details>
+A demo of the crisis prevention agent tested with an AI generated case.
 
 
 ## Licence
