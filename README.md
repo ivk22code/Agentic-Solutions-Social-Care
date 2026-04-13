@@ -76,19 +76,16 @@ This tool is designed to support professional decision-making, not replace it. E
 ## Solution Tour
 
 ### 1. AI Agent Experience (Teams/Copilot Studio)
-![Agent Instructions](Screenshots/%20AgentDescription.png)
+![Agent Instructions](./Screenshots/Agent%20Description.png)
 *The agent is governed by strict rules to ensure caseworker oversight.*
 
 ### 2. Mobile Assessment Form (Power Apps)
-![Canvas App](./screenshots/Canvas%20App.jpg)
+![Canvas App](./Screenshots/Canvas%20App.png)
 *A structured form for high-speed data entry in the field.*
 
 ### 3. Crisis Escalation (Microsoft Teams)
-![Teams Approval](./screenshots/Teams%20Approval.jpg)
+![Teams Approval](./Screenshots/Teams%20Approval.png)
 *RED cases trigger immediate Adaptive Card approvals for managers.*
-
-
-
 
 
 
