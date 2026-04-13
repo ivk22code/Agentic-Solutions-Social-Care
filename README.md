@@ -76,7 +76,7 @@ This tool is designed to support professional decision-making, not replace it. E
 ## Solution Tour
 
 ### 1. AI Agent Experience (Teams/Copilot Studio)
-![Agent Instructions](./screenshots/Agent%20Description.jpg)
+![Agent Instructions](Screenshots/%20AgentDescription.png)
 *The agent is governed by strict rules to ensure caseworker oversight.*
 
 ### 2. Mobile Assessment Form (Power Apps)
