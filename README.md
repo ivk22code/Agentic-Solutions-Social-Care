@@ -90,7 +90,7 @@ This tool is designed to support professional decision-making, not replace it. E
 ![Teams Approval](./Screenshots/Teams%20Approval.png)
 *RED cases trigger immediate Adaptive Card approvals for managers.*
 
-### 1. AI Agent Demo (Copilot Studio)
+### 4. AI Agent Demo (Copilot Studio)
 <details>
   <summary>▶ Click to expand: Demo of Adult Social Care Assistant</summary>
   
